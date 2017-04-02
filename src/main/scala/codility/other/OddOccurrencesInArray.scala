@@ -1,4 +1,4 @@
-package codility
+package codility.other
 
 /**
   * Created by faiaz on 31.03.17.

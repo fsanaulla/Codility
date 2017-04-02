@@ -1,6 +1,5 @@
+import codility.other.OddOccurrencesInArray.solution
 import org.scalatest.FlatSpec
-
-import codility.OddOccurrencesInArray.solution
 /**
   * Created by faiaz on 31.03.17.
   */

@@ -1,4 +1,4 @@
-package codility;
+package codility.second;
 
 /**
  * Created by faiaz on 01.04.17.

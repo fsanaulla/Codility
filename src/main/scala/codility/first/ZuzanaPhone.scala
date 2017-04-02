@@ -1,4 +1,4 @@
-package codility
+package codility.first
 
 /**
   * Created by faiaz on 01.04.17.

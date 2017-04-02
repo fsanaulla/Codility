@@ -1,4 +1,4 @@
-package codility
+package codility.other
 
 import scala.annotation.tailrec
 

@@ -1,7 +1,6 @@
-package codility;
+package codility.second;
 
 import java.util.Stack;
-import java.util.regex.Pattern;
 
 /**
  * Created by faiaz on 01.04.17.
